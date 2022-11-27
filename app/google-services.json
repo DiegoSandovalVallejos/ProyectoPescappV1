@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915752201008",
+    "project_id": "pescapp-df979",
+    "storage_bucket": "pescapp-df979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915752201008:android:62fdc8d0a50da2c8d8b6f5",
+        "android_client_info": {
+          "package_name": "com.dsv.proyectopescappv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915752201008-42ea3bges8d1e5vlo5qoj29vnlqh2k1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsv.proyectopescappv1",
+            "certificate_hash": "223e2c68eb6b2e27522ecc19fee41b0b641f00af"
+          }
+        },
+        {
+          "client_id": "915752201008-og63lp8f4nrqmitq5ogtivinr3g8mbcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNsN3Flgtu4RlIJDi8bLCO4OOCLwBnYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915752201008-og63lp8f4nrqmitq5ogtivinr3g8mbcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
